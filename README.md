@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning: Cloud Native, Azure, AWS 
 - 💬 Ask me about Fullstack, Cloud Engineering (Azure), CI/CD, Docker, Kubernetes, Software Dev...__
 - 🤝 I’m looking for help with Exploring New Technologies.
-- ⚡ Fun fact: Game for code, code for food,food  for workout.
+- ⚡ Fun fact: Code for food.
 
 ### Contact me:
 
